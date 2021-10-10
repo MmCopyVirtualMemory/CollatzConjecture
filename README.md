@@ -12,3 +12,5 @@ Through the use of this program, you can test the conjecture for yourself and if
 I checked up to 20k myself with no problems ;). According to the source where I found the conjecture, other mathematicians have gone so far as to check to 2^68th.
 
 I had a lot of fun making this and trying out a different coding style to what I am used to so if there are any problems similar to this, please let me know because I would be happy to write another solution similar to this one.
+
+"Why the fuck would anyone want this" - $urge
